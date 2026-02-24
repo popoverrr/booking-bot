@@ -113,5 +113,5 @@ python booking_bot.py
 
 ## Контакт
 
-**Telegram:** @your_username
-**FreelanceSpace:** freelancespace.ru/profile/your_profile
+Telegram: @username111111111111111111111111
+GitHub: github.com/popoverrr
